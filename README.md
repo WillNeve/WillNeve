@@ -14,7 +14,3 @@
 </div>
 
 ✉️ williamneve6000@gmail.com
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillNeve&theme=&title_color=ffffff&icon_color=2986cc&text_color=ffffff&bg_color=0d1117&border_color=0d1117&show_icons=true&count_private=true)
-
-
