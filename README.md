@@ -1,6 +1,8 @@
 ## Hi, Im Will
-#### Lecturer @ Le Wagon London | Full-Stack Developer
-[##Portfolio](https://wneve.dev)
+#### Lecturer @ Le Wagon London || Full-Stack Developer
+
+### Check out my Portfolio:
+[wneve.dev](https://wneve.dev)
 #### Connect with me: 
 <!-- [LinkedIn](https://www.linkedin.com/in/william-neve-66a13819a/) // williamneve6000@gmail.com  -->
 <div id="badges">
