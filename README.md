@@ -1,5 +1,5 @@
 ## Hi, Im Will
-#### Lecturer @ Le Wagon London || Full-Stack Developer
+## Lecturer @ Le Wagon London || Full-Stack Developer
 
 ### Check out my Portfolio:
 [wneve.dev](https://wneve.dev)
