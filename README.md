@@ -1,5 +1,5 @@
 ## Hi, Im Will
-## Lecturer @ Le Wagon London || Full-Stack Developer
+## Software Developer @ [Versus](https://www.linkedin.com/company/ggversus?originalSubdomain=uk) || Lead Teacher @ [Le Wagon London](https://www.lewagon.com/london)
 
 ### Check out my Portfolio:
 [wneve.dev](https://wneve.dev)
