@@ -1,5 +1,5 @@
 ## Hi, Im Will
-## Software Developer @ [Versus](https://www.linkedin.com/company/ggversus?originalSubdomain=uk) || Lead Teacher @ [Le Wagon London](https://www.lewagon.com/london)
+## Software Developer @ [Versus](https://www.versusgaming.gg) || Lead Teacher @ [Le Wagon London](https://www.lewagon.com/london)
 
 ### Check out my Portfolio:
 [wneve.dev](https://wneve.dev)
