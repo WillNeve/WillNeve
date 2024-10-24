@@ -10,7 +10,6 @@
   </a>
 </div>
 
-✉️ williamneve6000@gmail.com
 [✉️ williamneve6000@gmail.com](mailto:williamneve6000@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WillNeve&label=Profile%20views&color=0e75b6&style=flat" alt="WillNeve" /> </p>
