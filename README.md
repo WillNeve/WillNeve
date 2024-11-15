@@ -1,5 +1,9 @@
 # Hi! Im Will 👋
-### Lead Software Developer @ [Versus](https://versusgaming.gg) 🎮 -- Lecturer / Lead Teacher @ [Le Wagon London](https://www.lewagon.com/london) 🧑‍🏫
+
+## Work:
+-🧑‍🏫 Lecturer / Lead Teacher @ [Le Wagon London](https://www.lewagon.com/london) 
+-🧑‍💻 Software Developer @ [Localista](https://localista.ai) 🍊
+-🧑‍💻 Lead Software Developer @ [Versus](https://versusgaming.gg) 🎮
 
 ## Portfolio:
 [wneve.dev](https://wneve.dev)
