@@ -1,7 +1,7 @@
 # Hi! Im Will 👋
 
 ## Work:
-- 🧑‍💻 Software Developer @ [Localista](https://localista.ai) 🍊
+- 🧑‍💻 Software Engineer @ [Localista](https://localista.ai) 🍊
 - 🧑‍🏫 Lecturer / Lead Teacher @ [Le Wagon London](https://www.lewagon.com/london) 🍎
 
 ## Portfolio:
