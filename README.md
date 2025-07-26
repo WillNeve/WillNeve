@@ -1,7 +1,7 @@
 # Hi! Im Will 👋
 
 ## Work:
-- 🧑‍💻 Software Engineer @ [Localista](https://localista.ai) 🍊
+- 🧑‍💻 Growth Engineer @ [Fyxer AI](https://fyxer.ai) 📧
 - 🧑‍🏫 Lecturer / Lead Teacher @ [Le Wagon London](https://www.lewagon.com/london) 🍎
 
 ## Portfolio:
