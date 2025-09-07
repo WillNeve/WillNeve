@@ -1,7 +1,7 @@
 # Hi! Im Will 👋☕🥐👨‍💻
 
 ## Work:
-- 🧑‍💻 Growth Engineer @ [Fyxer AI](https://fyxer.ai) 📧
+- 🧪 Growth Engineer @ [Fyxer AI](https://fyxer.ai) 📧
 - 🧑‍🏫 Lecturer / Lead Teacher @ [Le Wagon London](https://www.lewagon.com/london) 🍎
 
 ## Website:
