@@ -1,4 +1,5 @@
-# Hi! Im Will 👋☕🥐👨‍💻
+# Hi! Im Will 👋
+☕🥐👨‍💻
 
 ## Work:
 - 🧪 Growth Engineer @ [Fyxer AI](https://fyxer.ai) 📧
