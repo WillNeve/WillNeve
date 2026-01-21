@@ -2,8 +2,8 @@
 ☕🥐👨‍💻
 
 ## Work:
-- 🧪 Growth Engineer @ [Fyxer AI](https://fyxer.ai) 📧
-- 🧑‍🏫 Lecturer / Lead Teacher @ [Le Wagon London](https://www.lewagon.com/london) 🍎
+- 🧪 Growth Engineer @ [Fyxer](https://fyxer.com) 📧
+- (inactive) 🧑‍🏫 Lecturer / Lead Teacher @ [Le Wagon London](https://www.lewagon.com/london) 🍎
 
 ## Website:
 [wneve.dev](https://wneve.dev)
